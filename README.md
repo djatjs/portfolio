@@ -63,42 +63,55 @@
 ---
 
 ### 출판사(super)
+
 춢판사 대시보드
+
 <img width="791" height="315" alt="image" src="https://github.com/user-attachments/assets/6b4e1c46-93e1-4831-96fd-0b908ee223a6" />
 
 자사 에디터 등록
+
 <img width="1090" height="254" alt="image" src="https://github.com/user-attachments/assets/d868b964-b075-4985-a24a-78d80b781e91" />
 
 에디터 관리
+
 <img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/ed012e1e-67d4-45ff-8fe0-a2a42f429513" />
 
 에디터 담당 도서 설정
+
 <img width="792" height="349" alt="image" src="https://github.com/user-attachments/assets/f617043c-0bed-4406-a57f-a3f5b1d69bf7" />
 
 ---
 
 ### 출판사(editor)
+
 에디터 도서 관리 페이지
+
 <img width="814" height="564" alt="image" src="https://github.com/user-attachments/assets/27377dca-cc7c-4f09-82e6-678fc5002b64" />
 
 새 도서 등록
+
 <img width="715" height="883" alt="image" src="https://github.com/user-attachments/assets/a25b5be6-d0c8-4194-9295-c1d9b9a0dc55" />
 
-도서 회차 관
+도서 회차 관리
+
 <img width="624" height="421" alt="image" src="https://github.com/user-attachments/assets/a17c279f-87e8-4042-8e90-d55be238f802" />
 
 ### 일반 사용자
+
+도서 상세 페이지
+
 <img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/2cd75aa5-91bb-47c8-a9aa-a1182b99cb8b" />
 
----
-
 도서 회차 구입
+
 <img width="442" height="385" alt="image" src="https://github.com/user-attachments/assets/e7857419-32a1-45df-8bd7-dd344fedcf99" />
 
 도서 리뷰 등록   
+
 <img width="604" height="677" alt="image" src="https://github.com/user-attachments/assets/2770de02-1d06-47e1-827a-fd976cde73b5" />
 
 내 서재에 담긴 도서의 회차 감상(epub.js 활용)   
+
 <img width="551" height="837" alt="image" src="https://github.com/user-attachments/assets/ab588fb4-65f2-494d-a0a9-56582bcbfe12" />
 
 ---
