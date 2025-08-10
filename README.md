@@ -69,10 +69,15 @@
 <img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/2cd75aa5-91bb-47c8-a9aa-a1182b99cb8b" />
 
 1) 도서 회차 구입
+
 <img width="442" height="385" alt="image" src="https://github.com/user-attachments/assets/e7857419-32a1-45df-8bd7-dd344fedcf99" />
-2) 도서 리뷰 등록
+
+3) 도서 리뷰 등록
+   
 <img width="604" height="677" alt="image" src="https://github.com/user-attachments/assets/2770de02-1d06-47e1-827a-fd976cde73b5" />
-3) 내 서재에 담긴 도서의 회차 감상(epub.js 활용)
+
+4) 내 서재에 담긴 도서의 회차 감상(epub.js 활용)
+   
 <img width="551" height="837" alt="image" src="https://github.com/user-attachments/assets/ab588fb4-65f2-494d-a0a9-56582bcbfe12" />
 
 ---
