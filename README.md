@@ -49,17 +49,17 @@
 <img width="881" height="603" alt="image" src="https://github.com/user-attachments/assets/0c0b25fa-bb9c-4865-a7c2-5ecf239c9d53" />
 
 <img width="868" height="371" alt="image" src="https://github.com/user-attachments/assets/28d2a4b0-b405-4b04-8548-430ef55a3269" />
-
+---
 ### 관리자
 <img width="771" height="324" alt="image" src="https://github.com/user-attachments/assets/f0a85f9a-905a-414b-b335-3d3e33daba7c" />
-
+---
 ### 출판사(super)
 <img width="791" height="315" alt="image" src="https://github.com/user-attachments/assets/6b4e1c46-93e1-4831-96fd-0b908ee223a6" />
 <img width="1090" height="254" alt="image" src="https://github.com/user-attachments/assets/d868b964-b075-4985-a24a-78d80b781e91" />
 <img width="791" height="315" alt="image" src="https://github.com/user-attachments/assets/2f1649d6-9bc5-4f50-a461-8049ef0e85b2" />
 <img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/ed012e1e-67d4-45ff-8fe0-a2a42f429513" />
 <img width="792" height="349" alt="image" src="https://github.com/user-attachments/assets/f617043c-0bed-4406-a57f-a3f5b1d69bf7" />
-
+---
 ### 출판사(editor)
 <img width="814" height="564" alt="image" src="https://github.com/user-attachments/assets/27377dca-cc7c-4f09-82e6-678fc5002b64" />
 <img width="715" height="883" alt="image" src="https://github.com/user-attachments/assets/a25b5be6-d0c8-4194-9295-c1d9b9a0dc55" />
@@ -67,7 +67,7 @@
 
 ### 일반 사용자
 <img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/2cd75aa5-91bb-47c8-a9aa-a1182b99cb8b" />
-
+--
 1) 도서 회차 구입
 
 <img width="442" height="385" alt="image" src="https://github.com/user-attachments/assets/e7857419-32a1-45df-8bd7-dd344fedcf99" />
