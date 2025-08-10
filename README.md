@@ -64,7 +64,7 @@
 
 ### 출판사(super)
 
-춢판사 대시보드
+출판사 대시보드
 
 <img width="791" height="315" alt="image" src="https://github.com/user-attachments/assets/6b4e1c46-93e1-4831-96fd-0b908ee223a6" />
 
