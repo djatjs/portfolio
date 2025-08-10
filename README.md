@@ -46,6 +46,10 @@
 
 ### 📷 실행 화면
 
+메인 화면
+<img width="1938" height="1240" alt="image" src="https://github.com/user-attachments/assets/6628b9c5-bf1f-4476-a2cc-852ca1601b19" />
+
+
 <img width="881" height="603" alt="image" src="https://github.com/user-attachments/assets/0c0b25fa-bb9c-4865-a7c2-5ecf239c9d53" />
 
 <img width="868" height="371" alt="image" src="https://github.com/user-attachments/assets/28d2a4b0-b405-4b04-8548-430ef55a3269" />
