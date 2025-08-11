@@ -135,15 +135,23 @@
 
 🔹 도서 상세 페이지
 
-<img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/2cd75aa5-91bb-47c8-a9aa-a1182b99cb8b" />
+<img width="1018" height="839" alt="image" src="https://github.com/user-attachments/assets/2b8c9c9a-0306-44f5-a5c4-52a055dee02a" />
+
+- 무료 회차는 바로 소장 및 열람 가능. 유료 회차는 도서 회차 결제 절차를 통해 소장하여 열람 가능.
+- 결제된 회차는 내 서재에 담겨 사용자가 구입한 도서의 회차를 열람 가능하도록 설계.
 
 🔹 도서 회차 구입
 
-<img width="442" height="385" alt="image" src="https://github.com/user-attachments/assets/e7857419-32a1-45df-8bd7-dd344fedcf99" />
+<img width="1800" height="1129" alt="image" src="https://github.com/user-attachments/assets/c571c49d-36ca-4e37-a39c-5a0bd0ee1c21" />
+
 
 🔹 도서 리뷰 등록   
 
-<img width="604" height="677" alt="image" src="https://github.com/user-attachments/assets/2770de02-1d06-47e1-827a-fd976cde73b5" />
+<img width="1072" height="839" alt="image" src="https://github.com/user-attachments/assets/9da0c53b-f9c5-4ae6-9acb-2ffc240e122a" />
+
+- 별점과 함께 등록하는 리뷰이기 때문에 ID당 한 번의 리뷰 작성 가능.
+
+
 
 🔹 내 서재에 담긴 도서의 회차 감상(epub.js 활용)   
 
