@@ -68,11 +68,21 @@
 <img width="868" height="371" alt="image" src="https://github.com/user-attachments/assets/28d2a4b0-b405-4b04-8548-430ef55a3269" />
 
 - 계정은 크게 관리자, 출판사, 일반 사용자 계정으로 나뉘며, 출판사는 총책임자(super), 에디터(editor)의 세부권한으로 나누어짐.
-- 
+  
 ---
 
 ### 관리자
-<img width="771" height="324" alt="image" src="https://github.com/user-attachments/assets/f0a85f9a-905a-414b-b335-3d3e33daba7c" />
+🔹 관리자 대시보드
+
+<img width="980" height="718" alt="image" src="https://github.com/user-attachments/assets/d57bb0f7-643f-4999-98c3-04c677478bd3" />
+
+🔹 출판사 관리
+
+<img width="1188" height="848" alt="image" src="https://github.com/user-attachments/assets/80ccbb5b-3a96-484e-b39a-eccdbc64d913" />
+
+<img width="1176" height="677" alt="image" src="https://github.com/user-attachments/assets/3db9a15a-ab8c-471e-90c6-74feb27433db" />
+
+- 관리자 계정은 출판사 계정을 새로 발급하거나 출판사 계정을 삭제 시킬 수 있음.
 
 ---
 
