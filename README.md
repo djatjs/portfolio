@@ -53,6 +53,7 @@
 - 로맨스, 로판, 판타지, 무협으로 나누어진 장르마다 실시간 랭킹, 기다리면 무료, 베스트 작품 리스트 나열.
 
 
+
 🔹 회원가입 유효성 검사
 <img width="881" height="603" alt="image" src="https://github.com/user-attachments/assets/0c0b25fa-bb9c-4865-a7c2-5ecf239c9d53" />
 
@@ -61,11 +62,13 @@
 - 닉네임은 사용불가능한 닉네임들을 모아둔 리스트를 만들어두어 유효성 검사로 비속어 사용을 방지.
 
 
+
 🔹 역발별 기능 분담 원리
 
 <img width="868" height="371" alt="image" src="https://github.com/user-attachments/assets/28d2a4b0-b405-4b04-8548-430ef55a3269" />
 
 - 계정은 크게 관리자, 출판사, 일반 사용자 계정으로 나뉘며, 출판사는 총책임자(super), 에디터(editor)의 세부권한으로 나누어짐.
+- 
 ---
 
 ### 관리자
