@@ -113,15 +113,23 @@
 
 🔹 에디터 도서 관리 페이지
 
-<img width="814" height="564" alt="image" src="https://github.com/user-attachments/assets/27377dca-cc7c-4f09-82e6-678fc5002b64" />
+<img width="1168" height="1037" alt="image" src="https://github.com/user-attachments/assets/0d8ab878-41d8-47ce-9b76-7b08d9b2b296" />
+
+- 에디터는 자신이 담당하고 있는 도서를 관리하거나 새 도서를 등록할 수 있음.
 
 🔹 새 도서 등록
 
-<img width="715" height="883" alt="image" src="https://github.com/user-attachments/assets/a25b5be6-d0c8-4194-9295-c1d9b9a0dc55" />
+<img width="645" height="1117" alt="image" src="https://github.com/user-attachments/assets/4f47397a-6566-47db-9c10-1cde3617fc8a" />
+
 
 🔹 도서 회차 관리
 
-<img width="624" height="421" alt="image" src="https://github.com/user-attachments/assets/a17c279f-87e8-4042-8e90-d55be238f802" />
+<img width="1185" height="1013" alt="image" src="https://github.com/user-attachments/assets/93c9b258-9855-47a2-9b2b-99d57d9366ba" />
+
+- 회차 등록 : 해당 회차의 내용을 담은 epub파일과 최신 썸네일로 사용할 이미지(미리보기 기능)를 등록하여 회차 등록 가능.
+
+<img width="1185" height="1290" alt="image" src="https://github.com/user-attachments/assets/9bbf676a-4ad9-4b6b-9e54-a3bed3c94b2a" />
+
 
 ### 일반 사용자
 
