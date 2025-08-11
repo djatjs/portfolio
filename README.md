@@ -21,7 +21,7 @@
 - 전적 결과 상세정보 시각화
 
 ### 📷 실행 화면
-<img width="1181" height="968" alt="스크린샷 2025-04-15 182431" src="https://github.com/user-attachments/assets/cf93494f-da3e-44a1-9d50-4722ce1a7e8f" />
+<img width="778" height="272" alt="image" src="https://github.com/user-attachments/assets/b48a5581-9ead-413f-a760-22b845c122d2" />
 
 ---
 
@@ -48,7 +48,7 @@
 
 메인 화면
 
-<img width="778" height="272" alt="image" src="https://github.com/user-attachments/assets/b48a5581-9ead-413f-a760-22b845c122d2" />
+
 
 회원가입 유효성 검사
 <img width="881" height="603" alt="image" src="https://github.com/user-attachments/assets/0c0b25fa-bb9c-4865-a7c2-5ecf239c9d53" />
