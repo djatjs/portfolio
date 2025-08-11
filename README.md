@@ -47,7 +47,8 @@
 ### 📷 실행 화면
 
 메인 화면
-<img width="1938" height="1240" alt="image" src="https://github.com/user-attachments/assets/6628b9c5-bf1f-4476-a2cc-852ca1601b19" />
+
+<img width="778" height="272" alt="image" src="https://github.com/user-attachments/assets/b48a5581-9ead-413f-a760-22b845c122d2" />
 
 회원가입 유효성 검사
 <img width="881" height="603" alt="image" src="https://github.com/user-attachments/assets/0c0b25fa-bb9c-4865-a7c2-5ecf239c9d53" />
