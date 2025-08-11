@@ -90,20 +90,23 @@
 
 🔹 출판사 대시보드
 
-<img width="791" height="315" alt="image" src="https://github.com/user-attachments/assets/6b4e1c46-93e1-4831-96fd-0b908ee223a6" />
+<img width="1120" height="677" alt="image" src="https://github.com/user-attachments/assets/15cabcb1-aa27-42ea-bbf1-79b1a47c6be8" />
 
-🔹 자사 에디터 등록
-
-<img width="1090" height="254" alt="image" src="https://github.com/user-attachments/assets/d868b964-b075-4985-a24a-78d80b781e91" />
+- 자사의 에디터 수와 연재중인 도서, 완결 도서를 확인 및 에디터 관리 가능.
 
 🔹 에디터 관리
 
-<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/ed012e1e-67d4-45ff-8fe0-a2a42f429513" />
+<img width="1312" height="1057" alt="image" src="https://github.com/user-attachments/assets/21484fc2-f784-4e1d-8973-ff606659069c" />
+
+- 자사에 소속된 에디터를 삭제하거나 일반 사용자의 닉네임을 검색하여 에디터로 전환가능.
+
 
 🔹 에디터 담당 도서 설정
 
-<img width="792" height="349" alt="image" src="https://github.com/user-attachments/assets/f617043c-0bed-4406-a57f-a3f5b1d69bf7" />
+<img width="1005" height="1056" alt="image" src="https://github.com/user-attachments/assets/b3900088-0aec-4072-8d31-265d83c4375d" />
 
+- 도서를 담당할 에디터를 교체 및 보관 가능. 여기서 보관은 담당 회차를 등록할 에디터 지정 없이 출판사에서 임시로 보관해두는 기능으로 담당할 에디터가 없을 때 사용. 
+  
 ---
 
 ### 출판사(editor)
