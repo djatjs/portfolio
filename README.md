@@ -20,7 +20,7 @@
 - 소환사명 기반 전적 검색
 - 전적 결과 상세정보 시각화
 
-### 📷 실행 화면
+### 실행 화면
 <img width="778" height="272" alt="image" src="https://github.com/user-attachments/assets/b48a5581-9ead-413f-a760-22b845c122d2" />
 
 ---
@@ -44,19 +44,28 @@
 - 어드민 페이지 UI 및 데이터 연동
 - 조건별 작품 검색 및 정렬
 
-### 📷 실행 화면
+### 실행 화면
 
-메인 화면
+🔹 메인 화면
 
-<img width="1938" height="1240" alt="image" src="https://github.com/user-attachments/assets/1ae539f6-5f6d-4501-87f2-65c4b12578d3" />
+<img width="2204" height="1657" alt="image" src="https://github.com/user-attachments/assets/a2337e86-ed23-42a4-b005-30ee9424bacb" />
+
+- 로맨스, 로판, 판타지, 무협으로 나누어진 장르마다 실시간 랭킹, 기다리면 무료, 베스트 작품 리스트 나열.
 
 
-회원가입 유효성 검사
+🔹 회원가입 유효성 검사
 <img width="881" height="603" alt="image" src="https://github.com/user-attachments/assets/0c0b25fa-bb9c-4865-a7c2-5ecf239c9d53" />
 
-역발별 기능 분담 원리 : 계정은 크게 관리자, 출판사, 일반 사용자 계정으로 나뉘며, 출판사는 총책임자(super), 에디터(editor)의 세부권한으로 나누어짐.
+- 회원가입을 위해 이메일을 입력할 때 이메일 형식을 지켜야하고, 가입되지 않은 계정이어야 가입가능.
+- 인증코드를 입력하여 인증 성공시 닉네임과 비밀번호, 가입 버튼이 활성화되어 가입가능.
+- 닉네임은 사용불가능한 닉네임들을 모아둔 리스트를 만들어두어 유효성 검사로 비속어 사용을 방지.
+
+
+🔹 역발별 기능 분담 원리
+
 <img width="868" height="371" alt="image" src="https://github.com/user-attachments/assets/28d2a4b0-b405-4b04-8548-430ef55a3269" />
 
+- 계정은 크게 관리자, 출판사, 일반 사용자 계정으로 나뉘며, 출판사는 총책임자(super), 에디터(editor)의 세부권한으로 나누어짐.
 ---
 
 ### 관리자
@@ -66,19 +75,19 @@
 
 ### 출판사(super)
 
-출판사 대시보드
+🔹 출판사 대시보드
 
 <img width="791" height="315" alt="image" src="https://github.com/user-attachments/assets/6b4e1c46-93e1-4831-96fd-0b908ee223a6" />
 
-자사 에디터 등록
+🔹 자사 에디터 등록
 
 <img width="1090" height="254" alt="image" src="https://github.com/user-attachments/assets/d868b964-b075-4985-a24a-78d80b781e91" />
 
-에디터 관리
+🔹 에디터 관리
 
 <img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/ed012e1e-67d4-45ff-8fe0-a2a42f429513" />
 
-에디터 담당 도서 설정
+🔹 에디터 담당 도서 설정
 
 <img width="792" height="349" alt="image" src="https://github.com/user-attachments/assets/f617043c-0bed-4406-a57f-a3f5b1d69bf7" />
 
@@ -86,33 +95,33 @@
 
 ### 출판사(editor)
 
-에디터 도서 관리 페이지
+🔹 에디터 도서 관리 페이지
 
 <img width="814" height="564" alt="image" src="https://github.com/user-attachments/assets/27377dca-cc7c-4f09-82e6-678fc5002b64" />
 
-새 도서 등록
+🔹 새 도서 등록
 
 <img width="715" height="883" alt="image" src="https://github.com/user-attachments/assets/a25b5be6-d0c8-4194-9295-c1d9b9a0dc55" />
 
-도서 회차 관리
+🔹 도서 회차 관리
 
 <img width="624" height="421" alt="image" src="https://github.com/user-attachments/assets/a17c279f-87e8-4042-8e90-d55be238f802" />
 
 ### 일반 사용자
 
-도서 상세 페이지
+🔹 도서 상세 페이지
 
 <img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/2cd75aa5-91bb-47c8-a9aa-a1182b99cb8b" />
 
-도서 회차 구입
+🔹 도서 회차 구입
 
 <img width="442" height="385" alt="image" src="https://github.com/user-attachments/assets/e7857419-32a1-45df-8bd7-dd344fedcf99" />
 
-도서 리뷰 등록   
+🔹 도서 리뷰 등록   
 
 <img width="604" height="677" alt="image" src="https://github.com/user-attachments/assets/2770de02-1d06-47e1-827a-fd976cde73b5" />
 
-내 서재에 담긴 도서의 회차 감상(epub.js 활용)   
+🔹 내 서재에 담긴 도서의 회차 감상(epub.js 활용)   
 
 <img width="551" height="837" alt="image" src="https://github.com/user-attachments/assets/ab588fb4-65f2-494d-a0a9-56582bcbfe12" />
 
