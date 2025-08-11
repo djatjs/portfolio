@@ -154,8 +154,11 @@
 
 
 🔹 내 서재에 담긴 도서의 회차 감상(epub.js 활용)   
+<img width="881" height="1029" alt="image" src="https://github.com/user-attachments/assets/cabc7fae-1598-4aeb-becd-737aa6e68c57" />
 
-<img width="551" height="837" alt="image" src="https://github.com/user-attachments/assets/ab588fb4-65f2-494d-a0a9-56582bcbfe12" />
+<img width="796" height="1029" alt="image" src="https://github.com/user-attachments/assets/01f12c27-79e6-4d1d-a32b-57356bdf3aaf" />
+
+- 회차 마다의 댓글을 남길 수 있음. 평점과 관련 없는 부분이기 때문에 댓글 여러개 작성 가능.
 
 ---
 
