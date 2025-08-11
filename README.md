@@ -48,6 +48,7 @@
 
 메인 화면
 
+<img width="1938" height="1240" alt="image" src="https://github.com/user-attachments/assets/1ae539f6-5f6d-4501-87f2-65c4b12578d3" />
 
 
 회원가입 유효성 검사
