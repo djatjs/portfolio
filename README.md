@@ -23,11 +23,18 @@
 
 ### 실행 화면
 
+🔹 TFT 전적 검색 화면
 <img width="1168" height="783" alt="image" src="https://github.com/user-attachments/assets/d7ceec90-2831-4315-a64c-689343276e5f" />
+
 
 <img width="1419" height="1125" alt="image" src="https://github.com/user-attachments/assets/ce8c061e-5003-4e8b-803c-66c426cdca0c" />
 
+
 <img width="2000" height="785" alt="image" src="https://github.com/user-attachments/assets/69f7574c-bad2-420f-984d-0a0157dda13b" />
+
+
+🔹 LOL 전적 검색 화면
+<img width="1365" height="821" alt="image" src="https://github.com/user-attachments/assets/5df1c677-38b6-43db-b663-a2f0c1950fe7" />
 
 ---
 
