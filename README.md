@@ -25,18 +25,16 @@
 
 🔹 TFT 전적 검색 화면
 <img width="1168" height="783" alt="image" src="https://github.com/user-attachments/assets/d7ceec90-2831-4315-a64c-689343276e5f" />
-
-
+<br>
 <img width="1419" height="1125" alt="image" src="https://github.com/user-attachments/assets/ce8c061e-5003-4e8b-803c-66c426cdca0c" />
-
-
+<br>
 <img width="2000" height="785" alt="image" src="https://github.com/user-attachments/assets/69f7574c-bad2-420f-984d-0a0157dda13b" />
-
-
+<br>
 🔹 LOL 전적 검색 화면
 <img width="1365" height="821" alt="image" src="https://github.com/user-attachments/assets/5df1c677-38b6-43db-b663-a2f0c1950fe7" />
 
 ---
+<br><br>
 
 ## 2. 웹소설 플랫폼
 
@@ -56,26 +54,22 @@
 - 작품/회차 CRUD 기능
 - 어드민 페이지 UI 및 데이터 연동
 - 조건별 작품 검색 및 정렬
-
+<br>
 ### 실행 화면
-
+<br>
 🔹 메인 화면
 
 <img width="2204" height="1657" alt="image" src="https://github.com/user-attachments/assets/a2337e86-ed23-42a4-b005-30ee9424bacb" />
 
 - 로맨스, 로판, 판타지, 무협으로 나누어진 장르마다 실시간 랭킹, 기다리면 무료, 베스트 작품 리스트 나열.
-
-
-
+<br>
 🔹 회원가입 유효성 검사
 <img width="881" height="603" alt="image" src="https://github.com/user-attachments/assets/0c0b25fa-bb9c-4865-a7c2-5ecf239c9d53" />
 
 - 회원가입을 위해 이메일을 입력할 때 이메일 형식을 지켜야하고, 가입되지 않은 계정이어야 가입가능.
 - 인증코드를 입력하여 인증 성공시 닉네임과 비밀번호, 가입 버튼이 활성화되어 가입가능.
 - 닉네임은 사용불가능한 닉네임들을 모아둔 리스트를 만들어두어 유효성 검사로 비속어 사용을 방지.
-
-
-
+<br>
 🔹 역발별 기능 분담 원리
 
 <img width="868" height="371" alt="image" src="https://github.com/user-attachments/assets/28d2a4b0-b405-4b04-8548-430ef55a3269" />
@@ -83,6 +77,7 @@
 - 계정은 크게 관리자, 출판사, 일반 사용자 계정으로 나뉘며, 출판사는 총책임자(super), 에디터(editor)의 세부권한으로 나누어짐.
   
 ---
+<br>
 
 ### 관리자
 🔹 관리자 대시보드
@@ -98,6 +93,7 @@
 - 관리자 계정은 출판사 계정을 새로 발급하거나 출판사 계정을 삭제 시킬 수 있음.
 
 ---
+<br>
 
 ### 출판사(super)
 
@@ -113,7 +109,6 @@
 
 - 자사에 소속된 에디터를 삭제하거나 일반 사용자의 닉네임을 검색하여 에디터로 전환가능.
 
-
 🔹 에디터 담당 도서 설정
 
 <img width="1005" height="1056" alt="image" src="https://github.com/user-attachments/assets/b3900088-0aec-4072-8d31-265d83c4375d" />
@@ -121,6 +116,7 @@
 - 도서를 담당할 에디터를 교체 및 보관 가능. 여기서 보관은 담당 회차를 등록할 에디터 지정 없이 출판사에서 임시로 보관해두는 기능으로 담당할 에디터가 없을 때 사용. 
   
 ---
+<br>
 
 ### 출판사(editor)
 
@@ -143,6 +139,7 @@
 
 <img width="1185" height="1290" alt="image" src="https://github.com/user-attachments/assets/9bbf676a-4ad9-4b6b-9e54-a3bed3c94b2a" />
 
+<br>
 
 ### 일반 사용자
 
@@ -174,6 +171,7 @@
 - 회차 마다의 댓글을 남길 수 있음. 평점과 관련 없는 부분이기 때문에 댓글 여러개 작성 가능.
 
 ---
+<br><br>
 
 ## 📫 연락처
 - Email: umsunil2@naver.com
